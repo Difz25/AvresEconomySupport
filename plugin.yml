@@ -1,0 +1,6 @@
+name: AvresEconomySupport
+version: 1.0.0
+api: [5.0.0]
+main: Difz25\AvresEconomySupport\AvresEconomySupport
+author: Difz25
+description: Economy plugin to give, add, set, reduce, get, getall money of player
